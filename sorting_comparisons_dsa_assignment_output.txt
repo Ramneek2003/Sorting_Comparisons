@@ -1,0 +1,31 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Ramneek\Desktop\C++> g++ .\sorting_comparisons_dsa_assignment.cpp
+PS C:\Users\Ramneek\Desktop\C++> .\a.exe
+Enter the number of elements you want in array: 
+5
+Enter the elements of the array: 
+64
+25
+12
+22
+11
+Initial array: 
+64 25 12 22 11
+
+No. of comparisons in selection sort : 10
+No. of swaps in selection sort : 3
+
+Sorted array after using selection sort:
+11 12 22 25 64
+
+No. of comparisons in bubble sort : 10
+No. of swaps in bubble sort : 9
+
+Sorted array after using bubble sort:
+11 12 22 25 64
+
+PS C:\Users\Ramneek\Desktop\C++> 
